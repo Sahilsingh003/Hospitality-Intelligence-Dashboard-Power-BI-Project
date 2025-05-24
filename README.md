@@ -33,7 +33,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 The star schema data model is designed to optimize performance and enable intuitive slicing/dicing by room class, platform, city, property, and time period.
 
-![Data Model](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/Data%20model.png)
+![Data Model](https://github.com/Sahilsingh003/Hospitality-Intelligence-Dashboard-Power-BI-Project/blob/d3776c903e527162012f5d0717ce67f479f15a43/Dashboard%20Image/Data%20Model.png
+)
 
 
 ---
@@ -44,40 +45,22 @@ The star schema data model is designed to optimize performance and enable intuit
 
 ![Overview Page](https://github.com/Sahilsingh003/Hospitality-Intelligence-Dashboard-Power-BI-Project/blob/1df1f633f24f5418f2ebcd4ad6b3c6ad2a24b462/Dashboard%20Image/Overview%20Page.jpg)
 
-Get a snapshot of performance with metrics like:
-- Total Revenue  
-- Occupancy %  
-- RevPAR (Revenue Per Available Room)  
-- ADR (Average Daily Rate)  
-- Realisation %  
-- Cancellation %  
-- Average Stay  
-- Weekly Trends
+Real-time performance snapshot displaying total revenue (₹1.69B), occupancy rates, ADR, RevPAR, and key trend analysis across all properties with weekend vs weekday comparisons.
 
 ---
 
 ### 🏨 Property-Level Insights
 
-![Overview Page](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/Home_page-0001.jpg)
+![Property-Level Insights](https://github.com/Sahilsingh003/Hospitality-Intelligence-Dashboard-Power-BI-Project/blob/d3776c903e527162012f5d0717ce67f479f15a43/Dashboard%20Image/Property%20Insights.jpg)
 
-Analyze hotel-wise performance for:
-- Revenue  
-- Bookings  
-- DSRN / DBRN / DURN (Daily Single/Double/Triple Room Nights)  
-- Occupancy and Realisation %
+Property-level performance breakdown showing revenue distribution, occupancy rates, and ratings across 7 hotel properties with city-wise market share analysis.
 
----
 
 ### 👥 Customer Behavior Insights
 
-![Overview Page](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/Home_page-0001.jpg)
+![Customer Behavior Insights](https://github.com/Sahilsingh003/Hospitality-Intelligence-Dashboard-Power-BI-Project/blob/d3776c903e527162012f5d0717ce67f479f15a43/Dashboard%20Image/Customer%20Insights.jpg)
 
-Explore trends in:
-- Room types (Elite, Standard, Premium, Presidential)  
-- Guests per day
-- Total Guests
-- Booking vs. Cancellation  
-- Weekend And Weekdays Comparison
+Guest behavior insights analyzing room class preferences, booking patterns, cancellation trends, and customer satisfaction metrics with detailed segmentation by Elite, Standard, Premium, and Presidential categories.
 
 ---
 
