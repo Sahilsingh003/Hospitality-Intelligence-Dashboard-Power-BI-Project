@@ -42,7 +42,7 @@ The star schema data model is designed to optimize performance and enable intuit
 
 ### 🏠 Overview Page
 
-![Overview Page](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/Home_page-0001.jpg)
+![Overview Page](https://github.com/Sahilsingh003/Hospitality-Intelligence-Dashboard-Power-BI-Project/blob/1df1f633f24f5418f2ebcd4ad6b3c6ad2a24b462/Dashboard%20Image/Overview%20Page.jpg)
 
 Get a snapshot of performance with metrics like:
 - Total Revenue  
